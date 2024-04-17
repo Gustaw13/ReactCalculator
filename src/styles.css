@@ -8,6 +8,7 @@ body {
   margin: 0;
   /* background-color: linear-gradient(to right, #79c2d0, #ffcbcb); */
   background-color: #5c715e /* #79c2d0 */;
+  color: black;
 }
 
 .calculator-grid {

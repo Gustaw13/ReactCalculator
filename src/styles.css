@@ -11,6 +11,10 @@ body {
   color: black;
 }
 
+button {
+  color: black;
+}
+
 .calculator-grid {
   display: grid;
   margin-top: 2rem;
